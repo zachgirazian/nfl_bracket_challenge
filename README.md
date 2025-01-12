@@ -11,7 +11,7 @@ nfl_brackets.csv: Everyone's playoff bracket entry
 
 nfl_teams_info_colors.csv: Database of NFL team colors
 
-scenarios.csv: The list of scenarios from the program calculation, which is a nicely formatted csv file that shows who wins the bracket challenge for each scenario:
+scenarios.csv: A nicely formatted csv file that shows who wins the bracket challenge for each scenario (the output ofbracket_scenarios.py):
 
 ![image](https://github.com/user-attachments/assets/c4113a15-5e39-4916-8d04-f2c2dfbd83ed)
 
