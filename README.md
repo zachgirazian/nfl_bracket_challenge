@@ -11,5 +11,6 @@ nfl_teams_info_colors.csv: Database fo NFL team colors
 
 scenarios.csv: The list of scenarios from the program calculation, which is a niceley formatted csv file that shows who wins the bracket challenge for each scenario:
 
-![image](https://github.com/user-attachments/assets/bac6794e-dd65-4df5-b16f-8d730a9eaac6)
+![image](https://github.com/user-attachments/assets/c4113a15-5e39-4916-8d04-f2c2dfbd83ed)
+
 
