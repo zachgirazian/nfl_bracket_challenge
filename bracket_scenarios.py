@@ -8,7 +8,7 @@ def load_brackets():
     brackets = pd.read_csv('nfl_brackets.csv')
     N = brackets.shape[1] # of brackets
     
-    # Add columns for total bracket points and stirp all text
+    # Add columns for total bracket points and strip all text
     for a in brackets.columns:
         brackets[a + 'Pts'] = np.zeros(13)
         for key in brackets:
@@ -171,7 +171,7 @@ pointsnamesSort = [pointsnames[i] for i in sortedInd]
 
 
 # Write csv
-workbook = xlsxwriter.Workbook('scenarios_list_edit.xlsx')
+workbook = xlsxwriter.Workbook('scenarios.xlsx')
 worksheet = workbook.add_worksheet()
 
 # Formatting
