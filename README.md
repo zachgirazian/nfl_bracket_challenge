@@ -9,8 +9,7 @@ nfl_brackets.csv: Everyone's playoff bracket entry
 
 nfl_teams_info_colors.csv: Database fo NFL team colors
 
-scenarios.csv: The list of scenarios from the program calculation
+scenarios.csv: The list of scenarios from the program calculation, which is a niceley formatted csv file:
 
-
-![image](https://github.com/user-attachments/assets/1dc69ce3-d07f-4d40-a5ac-904a12c5cbc6)
+![image](https://github.com/user-attachments/assets/bac6794e-dd65-4df5-b16f-8d730a9eaac6)
 
