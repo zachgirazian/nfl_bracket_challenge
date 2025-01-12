@@ -5,7 +5,7 @@ import pandas as pd
 
 
 def load_brackets():
-    brackets = pd.read_csv('/Users/zacharygirazian/Library/CloudStorage/OneDrive-Personal/Personal/Zach Hobbies/Sports Brackets/NFL PLAYOFFS/2025/nfl_brackets.csv')
+    brackets = pd.read_csv('nfl_brackets.csv')
     N = brackets.shape[1] # of brackets
     
     # Add columns for total bracket points and stirp all text
