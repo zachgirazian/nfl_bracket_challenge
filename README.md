@@ -5,7 +5,7 @@ Every year my friends and I do an NFL Playoff pool. For every game in the playof
 
 This program calculates all bracket point scenarios from the divisional round on. It allows everyone to see their path to victory and highlights the most important games for determining the winner.
 
-The figure below shows the output of the program - a nicely formatted spreadsheet that shows how many points each person has and who wins the bracket challenge for all 1,296 scenarios (the output of bracket_scenarios.py):
+The figure below shows the output of the program - a nicely formatted spreadsheet that shows how many points each person has and who wins the bracket challenge for all 1,296 scenarios:
 
 ![image](https://github.com/user-attachments/assets/c4113a15-5e39-4916-8d04-f2c2dfbd83ed)
 
