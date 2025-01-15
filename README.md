@@ -1,4 +1,4 @@
-# The Path to Victory
+# The Path to Victory: NFL Bracket Challenge
 NFL Playoff Bracket Challenge
 
 Every year, my friends and I do an NFL Playoff pool. For every game in the playoffs, we pick the winner. After the Superbowl, whoever has the most bracket points wins the prize. Points are given as 50, 75, 150, and 300 points for each correct winner chosen in the wildcard round, divisional round, championship round, and Superbowl, respectively.
